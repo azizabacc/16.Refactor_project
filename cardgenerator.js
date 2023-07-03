@@ -2,7 +2,7 @@ import { generateDiv,generateImg,generateTitle ,generateSpan} from "./div_genera
 import { meanTempPerDay } from "./meanTemp.js";
 const container = document.querySelector(".container");
 
-// generate card and give it to parent 
+// generate card and give it to parent .
 export const generateCard = (dayOfTheWeek,weatherIcon,weatherDesc,temp,temp_min,temp_max ) =>{
         // Create the elements with Data
        

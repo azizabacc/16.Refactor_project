@@ -1,5 +1,5 @@
 
-//generate div with class and give it to parent 
+//generate div  with class and give it to parent 
 export const generateDiv = (childClass,parent) =>{
     const child = document.createElement('div');
     child.classList.add(childClass);

@@ -13,7 +13,7 @@ const weatherForecast = (lat,lon) =>{
 .then(result => {
     console.log('Welcome to this basic weather app. this is not a product but the product of an academic exercise.')
     clean(container);
-    // Looping through 5 days of weather data
+    // Looping through  5 days of weather data
 
     
         //const data = result.list[i];

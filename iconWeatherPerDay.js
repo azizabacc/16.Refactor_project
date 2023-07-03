@@ -1,4 +1,4 @@
-
+//select the first ico of the day
 export const iconWeather = (datalist) =>{
     let iconArray = [];
     let weatherDescription = [];
